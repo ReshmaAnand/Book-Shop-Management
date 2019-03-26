@@ -18,6 +18,7 @@ public class Item{
 	}
 	public void setMrp(int mrp) {
 		this.mrp = mrp;
+		System.out.println();
 	}
     
 }
